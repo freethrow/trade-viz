@@ -1,0 +1,42 @@
+h1,h2,h3,h4{
+	color:orangered;
+}
+
+
+h2{
+	font-size: 2em;
+	border-top: 1px dashed gray;
+	padding-top: 2em;
+}
+
+.navbar-brand a:{
+	color:orangered;
+}
+
+#chart-type>label,
+#chart-stacked>label{
+	padding:1em;
+}
+
+.gtitle{
+	color:orangered;
+}
+
+p > a,
+strong a{
+	color:orangered;
+}
+
+a:hover{
+	text-decoration: none;
+	
+}
+
+.footer{
+	margin-top: 3em;
+	text-align: justify;
+}
+
+.navbar-brand a:{
+	color:#4f9da6;
+}
